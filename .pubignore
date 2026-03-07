@@ -1,0 +1,10 @@
+# Native source and build artifacts — not needed by package consumers
+third_party/
+build/
+
+# CI/CD and developer tooling
+.github/
+ffigen.yaml
+tool/ffigen_include/
+tool/generate_bindings.sh
+tool/verify_symbol_coverage.sh
