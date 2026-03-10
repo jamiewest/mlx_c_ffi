@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:mlx_ffi/mlx_ffi.dart';
+import 'package:mlx_c_ffi/mlx_c_ffi.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -1,9 +1,9 @@
-name: mlx_ffi
+name: mlx_c_ffi
 description: >-
   Dart FFI bindings for Apple's mlx-c (MLX C API). Includes auto-generated
   low-level bindings and a high-level Mlx/MlxArray wrapper.
 version: 0.1.0
-repository: https://github.com/jamiewest/mlx_ffi
+repository: https://github.com/jamiewest/mlx_c_ffi
 
 topics:
   - ffi
